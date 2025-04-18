@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "author": "Ante Novokmet <ante.je.zakon@gmail.com>",
     "scripts": {
+		"dev": "rollup -c -w",
         "build": "rollup -c",
         "autobuild": "rollup -c -w"
     },
